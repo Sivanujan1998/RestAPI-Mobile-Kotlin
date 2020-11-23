@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RestAPI</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">this is Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="thirdfragment">Hi welcome to this new page</string>
+    <string name="thirdtofirst">Back to Home page</string>
+    <string name="next">Next</string>
+    <string name="third">Connect API</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">welcome to this home page</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
